@@ -1,0 +1,1 @@
+# Fraud Detection in Financial Transactions  ## Project Overview  This project focuses on fraud detection in financial transactions using anomaly detection techniques.  ## Techniques Used  - Isolation Forest  - Autoencoders  - Principal Component Analysis (PCA)  - Scikit-Learn 
